@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|h:\\asp.net\\productmanagement\\productmanagementapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357A02C3-4510-4519-9747-9F3557EE192B}|ProductManagementAPI.csproj|solutionrelative:iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwEMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:02:10.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T13:30:20.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAACoAAAAAzszMzMz8v0oAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:32:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAFEAAAAAZmZmZmb+v2EAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:11:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAA4AAAAANDMzMzPzv+sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:04:32.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "IServices\\IProductService.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\IServices\\IProductService.cs",
+              "RelativeToolTip": "IServices\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:04:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABEAAAAANDMzMzPzvyQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:03:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "H:\\ASP.Net\\ProductManagement\\ProductManagementAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:18:06.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
