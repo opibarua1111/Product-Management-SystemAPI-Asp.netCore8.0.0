@@ -1,6 +1,6 @@
 /###### Product Management System ######/
 
-I Attach the Postman Export JSON file with this file path: ProductManagementAPI/Product-Management.postman_collection.json
+I Attach the Postman Export JSON file with this file path: Product-Management.postman_collection.json
 
   1.1 Product Management:
   
