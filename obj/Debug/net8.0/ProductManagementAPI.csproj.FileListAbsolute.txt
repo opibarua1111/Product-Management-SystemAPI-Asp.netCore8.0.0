@@ -276,3 +276,5 @@ H:\ASP.Net\ProductManagement\ProductManagementAPI\obj\Debug\net8.0\refint\Produc
 H:\ASP.Net\ProductManagement\ProductManagementAPI\obj\Debug\net8.0\ProductManagementAPI.pdb
 H:\ASP.Net\ProductManagement\ProductManagementAPI\obj\Debug\net8.0\ProductManagementAPI.genruntimeconfig.cache
 H:\ASP.Net\ProductManagement\ProductManagementAPI\obj\Debug\net8.0\ref\ProductManagementAPI.dll
+H:\ASP.Net\ProductManagement\ProductManagementAPI\bin\Debug\net8.0\Product-Management.postman_collection.json
+H:\ASP.Net\ProductManagement\ProductManagementAPI\obj\Debug\net8.0\ProductManagementAPI.sourcelink.json
